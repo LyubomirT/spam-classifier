@@ -50,7 +50,7 @@ This notebook already contains two pre-trained examples, based on the "Small" an
 
 ## Results
 
-The model achieves an accuracy of 99.2% on the small dataset and 99.7% on the medium dataset. Here are some examples of predictions made by the model:
+Here are some examples of predictions made by the model:
 
 | Message | Prediction | Confidence (that it is spam) | Model |
 |---------|------------|------------|-------|
