@@ -26,8 +26,8 @@ You can install them using `!pip install torch scikit-learn pandas`. However, al
 
 This project uses two open-source datasets from Kaggle, marked as **Small (469 KB)** and **Medium (10 MB)**.
 
-1. [Spam Email] (Small)
-2. [Email Spam Dataset] (Medium)
+1. [Spam Email](https://www.kaggle.com/datasets/mfaisalqureshi/spam-email) (Small)
+2. [Email Spam Dataset](https://www.kaggle.com/datasets/nitishabharathi/email-spam-dataset) (Medium)
 
 ## Model
 
