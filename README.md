@@ -61,4 +61,4 @@ The model achieves an accuracy of 99.2% on the small dataset and 99.7% on the me
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
