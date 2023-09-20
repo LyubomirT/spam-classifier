@@ -1,4 +1,13 @@
-# Spam Identifier With AI
+<div align="center">
+<img src="logo_spamdetector.png" alt="Logo" width="200" height="200">
+<h1>Spam Identifier With AI</h1>
+<p>
+<img src="https://img.shields.io/badge/Python-3.10-blue" alt="Python Badge">
+<img src="https://img.shields.io/badge/PyTorch-2.0.1+cu118-orange" alt="PyTorch Badge">
+<img alt="Scikit-Learn Badge" src="https://img.shields.io/badge/scikit--learn-1.2.2-test?color=red">
+<img src="https://img.shields.io/badge/License-MIT-yellow" alt="License Badge">
+</p>
+</div>
 
 This project is a spam classifier that uses artificial intelligence to identify spam messages. It is implemented in Python, primarily utilizing the PyTorch and scikit-learn libraries for machine learning and natural language processing tasks.
 
@@ -17,8 +26,8 @@ You can install them using `!pip install torch scikit-learn pandas`. However, al
 
 This project uses two open-source datasets from Kaggle, marked as **Small (469 KB)** and **Medium (10 MB)**.
 
-1. [Spam Email](https://www.kaggle.com/datasets/mfaisalqureshi/spam-email) (Small)
-2. [Email Spam Dataset](https://www.kaggle.com/datasets/nitishabharathi/email-spam-dataset) (Medium)
+1. [Spam Email] (Small)
+2. [Email Spam Dataset] (Medium)
 
 ## Model
 
@@ -51,4 +60,4 @@ The model achieves an accuracy of 99.2% on the small dataset and 99.7% on the me
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
