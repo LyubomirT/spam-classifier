@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest us an idea, so we can create more updates!
-title: Make The Bot Say Gibberish
+title: Request a Feature
 labels: enhancement
 assignees: ''
 

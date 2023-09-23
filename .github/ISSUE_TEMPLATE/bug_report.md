@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Report a bug to us, to help us improve SIWA
-title: The Model Outputs 6.66%
+title: Your Title Here
 labels: bug
 assignees: ''
 

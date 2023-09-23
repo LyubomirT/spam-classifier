@@ -1,7 +1,7 @@
 ---
 name: Question or Help Request
 about: Ask a question or request assistance with an issue
-title: Huh?
+title: 'Question '
 labels: question
 assignees: ''
 
