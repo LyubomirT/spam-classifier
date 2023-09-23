@@ -1,6 +1,6 @@
 <div align="center">
 <img src="logo_spamdetector.png" alt="Logo" width="200" height="200">
-<h1>Spam Identifier With AI</h1>
+<h1>Spam Identifier With AI (S.I.W.A.)</h1>
 <p>
 <img src="https://img.shields.io/badge/Python-3.10-blue" alt="Python Badge">
 <img src="https://img.shields.io/badge/PyTorch-2.0.1+cu118-orange" alt="PyTorch Badge">
