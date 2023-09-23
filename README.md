@@ -1,5 +1,5 @@
 <div align="center">
-<img src="logo_spamdetector.png" alt="Logo" width="200" height="200">
+<img src="spamdetector_logo.png" alt="Logo" width="300" height="300">
 <h1>Spam Identifier With AI (S.I.W.A.)</h1>
 <p>
 <img src="https://img.shields.io/badge/Python-3.10-blue" alt="Python Badge">
